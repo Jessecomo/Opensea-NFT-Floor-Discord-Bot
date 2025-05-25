@@ -1,4 +1,4 @@
-# 🧿 Discord OpenSea NFT Floor Bot
+# 🎯 Discord OpenSea NFT Floor Bot
 
 **Discord-Opensea-NFT-Floor-Bot** is a lightweight Discord bot that retrieves and displays the **floor price** of any NFT collection on **OpenSea**.  
 It shows the price in **ETH** and its current equivalent in **USD**, so users can track trends without leaving Discord.
